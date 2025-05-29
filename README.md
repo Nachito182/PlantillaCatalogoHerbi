@@ -13,7 +13,7 @@ Este proyecto es un catálogo virtual desarrollado para **Herbi**, una marca esp
 
 ## 📂 Estructura general del proyecto
 
-**PlantillaCatalogoHerbi/**
+**PlantillaCatalogoHerbi/**<br>
 **├── index.html**
 **├── catalogo.html**
 **├── aboutus.html**
