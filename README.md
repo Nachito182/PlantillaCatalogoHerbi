@@ -14,17 +14,17 @@ Este proyecto es un catálogo virtual desarrollado para **Herbi**, una marca esp
 ## 📂 Estructura general del proyecto
 
 **PlantillaCatalogoHerbi/**<br>
-**├── index.html**
-**├── catalogo.html**
-**├── aboutus.html**
-**├── contact.html**
-**├── style.css**
-**├── styleabout.css**
-**├── stylecatalog.css**
-**├── img/**
-**│ └── (imágenes de productos)**
-**├── productos.js**
-**└── README.md**
+**├── index.html**<br>
+**├── catalogo.html**<br>
+**├── aboutus.html**<br>
+**├── contact.html**<br>
+**├── style.css**<br>
+**├── styleabout.css**<br>
+**├── stylecatalog.css**<br>
+**├── img/**<br>
+**│ └── (imágenes de productos)**<br>
+**├── productos.js**<br>
+**└── README.md**<br>
 
 ## ✨ Características
 
