@@ -14,9 +14,9 @@ Este proyecto es un catálogo virtual desarrollado para **Herbi**, una marca esp
 ## 📂 Estructura general del proyecto
 
 PlantillaCatalogoHerbi/
-├── index.html.
-├── catalogo.html.
-├── aboutus.html.
+├── index.html
+├── catalogo.html
+├── aboutus.html
 ├── contact.html
 ├── style.css
 ├── styleabout.css
